@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Script to display two bash PIDs without ps
+pgrep -l bash
